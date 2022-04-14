@@ -89,7 +89,7 @@ button{
     input{
         width: 75%;
         height: 5%;
-        font-size: 2rem;
+        font-size: 1.5rem;
         margin-top: 5px;
         border: none;
         outline: none;
@@ -97,7 +97,7 @@ button{
 
     input:focus{
         width: 100%;
-        font-size: 2rem;
+        font-size: 1rem;
     }
 
     /* button */
